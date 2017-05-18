@@ -1,0 +1,17 @@
+{
+  "name": "1-learnyounode",
+  "version": "1.0.0",
+  "description": "FCC Back-end learnyounode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.0",
+    "express": "^4.15.3",
+    "learnyounode": "^3.5.10",
+    "socket.io": "^2.0.1"
+  }
+}
