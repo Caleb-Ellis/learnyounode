@@ -13,6 +13,7 @@
     "bl": "^1.2.1",
     "express": "^4.15.3",
     "learnyounode": "^3.5.10",
-    "socket.io": "^2.0.1"
+    "socket.io": "^2.0.1",
+    "through2-map": "^3.0.0"
   }
 }
