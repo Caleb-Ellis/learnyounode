@@ -1,4 +1,4 @@
-var readDir = require('./ex6a');
+var readDir = require('./ex06a');
 
 var args = process.argv.slice(2);
 var dir = args[0];
